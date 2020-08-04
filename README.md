@@ -1,6 +1,8 @@
 # POLAR-SARS-CoV-2-Automation-for-OT-2
-Automation protocol for the Pathogen-Oriented Low-Cost Assembly &amp; Re-Sequencing (POLAR) diagnostic SARS-CoV-2 test for the Opentrons OT-2 liquid handling platform
-
+## Description
+This protocol automates the Pathogen-Oriented Low-Cost Assembly &amp; Re-Sequencing (POLAR) diagnostic SARS-CoV-2 test on the Opentrons OT-2 liquid handling platform
+<br>
+## Hardware
 This protocol utilizes the following hardware:  
 <br>
 (1x) [Opentrons OT-2 liquid handling robot](https://shop.opentrons.com/products/ot-2)   
@@ -18,3 +20,14 @@ This protocol utilizes the following hardware:
 (1x per run) [Opentrons thermocycler rubber seals](https://shop.opentrons.com/products/thermocycler-seals)   
 <br>
 (3x per run) [Bio Rad Hard-Shell® 96-Well PCR Plates, low profile, thin wall, skirted, catalog #HSP9601](https://www.bio-rad.com/en-us/sku/hsp9601-hard-shell-96-well-pcr-plates-low-profile-thin-wall-skirted-white-clear?ID=hsp9601)  
+<br>
+## Reagents
+a
+<br>
+b
+<br>
+c
+<br>
+
+## Setup
+Be sure to clean the OT-s robot before setting up any run. See the Opentrons guide on how to do this [here](https://support.opentrons.com/en/articles/1795522-cleaning-your-ot-2)
