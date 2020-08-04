@@ -31,3 +31,18 @@ c
 
 ## Setup
 Be sure to clean the OT-s robot before setting up any run. See the Opentrons guide on how to do this [here](https://support.opentrons.com/en/articles/1795522-cleaning-your-ot-2)
+### Deck Layout 
+![Screen Shot 2020-08-03 at 2](https://user-images.githubusercontent.com/43655550/89315974-1c0c2e00-d641-11ea-8775-24df214e9456.png)
+<br>
+#### Temperature Module Reagents
+Column 1: RT-PCR mastermix for pool 1 (6ul)
+<br>
+Column 2: RT-PCR mastermix for pool 2 (6ul) 
+<br>
+Column 3: Hackflex reagent (10ul)
+<br>
+Column 4: Final PCR master mix (10ul)
+<br>
+Columns 7-12: Library indexes (10ul)
+### Thermocycler reagents
+Place all samples in thermocycler with a volume of 4ul. Samples duplicates should be placed in neighboring rows
