@@ -45,13 +45,11 @@ Column 4: Final PCR master mix (10ul)
 <br>
 Columns 7-12: Library indexes (10ul)
 ### 12 Well Reservoir Reagents
-Well 1: Sterile mineral oil 
+Well 1: Sterile mineral oil (2mL)
 <br>
-Well 2: Viral magbeads in DNA/RNA shield
+Well 2: Tris-tween wash buffer
 <br>
-Well 3: Tris-tween wash buffer
-<br>
-Well 4: Tagmentation stop buffer
+Well 3: Tagmentation stop buffer
 
 ### Thermocycler reagents
 All samples in thermocycler will be loaded onto the thermocycler plate with a volume of 4ul. Sample duplicates are placed in neighboring rows (See diagram below)
