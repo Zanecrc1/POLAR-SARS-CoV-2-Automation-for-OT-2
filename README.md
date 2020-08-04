@@ -39,7 +39,10 @@ For this protocol, the thermocycler unit will need to be modified to fit into on
 The protocol has a build in pre-cooling/heating step where all modules will cool or heat to their initial working temperatures. Start the protocol and allow the modules to cool to their respective temperatures before adding temperature sensitive enzymes. Once these temperatures are reached the protocol will pause itself, and will ask you to press the RESUME button to begin the protocol.
 <br>
 
-This protocol resuses tips in order to accomplish the many steps needed, and therefore pipette tip boxes that do not have separate partitions within the box for each tip cannot be used, and will result in increased risk of contamination between samples. Please make sure to use the Opentrons pipette tips as they have separate compartments for each tip. 
+This protocol reuses tips in order to accomplish the many steps needed, and therefore pipette tip boxes that do not have separate partitions within the box for each tip cannot be used, and will result in increased risk of contamination between samples. Please make sure to use the Opentrons pipette tips as they have separate compartments for each tip. 
+<br>
+
+All labware should be calibrated **from the bottom of the wells**
 ### Deck Layout 
 ![Screen Shot 2020-08-03 at 2](https://user-images.githubusercontent.com/43655550/89315974-1c0c2e00-d641-11ea-8775-24df214e9456.png)
 <br>
