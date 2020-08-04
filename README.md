@@ -31,6 +31,12 @@ c
 
 ## Setup
 Be sure to clean the OT-2 robot before setting up any run. See the Opentrons guide on how to do this [here](https://support.opentrons.com/en/articles/1795522-cleaning-your-ot-2)
+<br>
+
+For this protocol, the thermocycler unit will need to be modified to fit into only slots 7 & 10. A small black panel on the bottom of the thermocycler module needs to be unscrewed in order to allow the thermocycler to shift to the left and free up slots 8 & 11 for additional tips. Note that doing this inhibits the right pipettor from accessing well column 'A1' on the thermocycler module. The right pipettor will not be used to access this slot in this protocol. 
+<br>
+
+The protocol has a build in pre-cooling/heating step where all modules will cool or heat to their initial working temperatures. Start the protocol and allow the modules to cool to their respective temperatures before adding temperature sensitive enzymes. Once these temperatures are reached the protocol will pause itself, and will ask you to press the RESUME button to begin the protocol.
 ### Deck Layout 
 ![Screen Shot 2020-08-03 at 2](https://user-images.githubusercontent.com/43655550/89315974-1c0c2e00-d641-11ea-8775-24df214e9456.png)
 <br>
