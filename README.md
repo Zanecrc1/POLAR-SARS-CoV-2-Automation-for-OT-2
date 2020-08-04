@@ -45,4 +45,6 @@ Column 4: Final PCR master mix (10ul)
 <br>
 Columns 7-12: Library indexes (10ul)
 ### Thermocycler reagents
-Place all samples in thermocycler with a volume of 4ul. Samples duplicates should be placed in neighboring rows
+All samples in thermocycler will be loaded onto the thermocycler plate with a volume of 4ul. Sample duplicates are placed in neighboring rows (See diagram below)
+
+![Screen Shot 2020-08-04 at 11](https://user-images.githubusercontent.com/43655550/89317215-b0c35b80-d642-11ea-859e-d1b6781276e6.png)
