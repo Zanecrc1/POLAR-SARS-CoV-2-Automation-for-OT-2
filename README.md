@@ -1,6 +1,6 @@
 # POLAR-SARS-CoV-2-Automation-for-OT-2
 ## Description
-This protocol automates the Pathogen-Oriented Low-Cost Assembly &amp; Re-Sequencing (POLAR) diagnostic SARS-CoV-2 test on the Opentrons OT-2 liquid handling platform.
+This protocol automates the Pathogen-Oriented Low-Cost Assembly &amp; Re-Sequencing (POLAR) diagnostic SARS-CoV-2 test on the Opentrons OT-2 liquid handling platform. This protocol is a work in progress. 
 <br>
 ## Hardware
 This protocol utilizes the following hardware:  
