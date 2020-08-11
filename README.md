@@ -4,7 +4,7 @@
 This repository contains all necessary documentation and files to run automated versions of the Zymo quick DNA/RNA viral magbead kit and the POLAR SARS-CoV-2 protocol. 
 
 ## Usage
-These protocols run as a relay, with the Zymo extraction protocol output being the input for the POLAR protocol. Moving from one robot to the next only requires that the elution plate from the Zymo extraction protocol be manually moved from the temperature module if the extraction robot to the thermocycler of the POLAR robot. If you are not immediately running the samples post extraction, the extracted RNA will need to be **immediately frozen** to avoid RNA degradation. 
+These protocols run as a relay, with the Zymo extraction protocol output being the input for the POLAR protocol. Moving from one robot to the next only requires that the elution plate from the Zymo extraction protocol be manually moved from the temperature module of the extraction robot to the thermocycler of the POLAR robot. If you are not immediately running the samples post extraction, the extracted RNA will need to be **immediately frozen** to avoid RNA degradation. 
 
 ## Directory structure
 * [`/Protocols`](https://github.com/Zanecrc1/POLAR-SARS-CoV-2-Automation-for-OT-2/tree/master/Protocols) Contains both the Zymo extraction protocol and the POLAR protocol .py files that can be uploaded to the OT-2 robot
