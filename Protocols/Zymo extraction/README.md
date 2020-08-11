@@ -12,9 +12,10 @@ This protocol utilizes the following hardware:
 <br>
 (1x) [Opentrons Gen2 P20 8-channel pipettor](https://shop.opentrons.com/collections/ot-2-robot/products/8-channel-electronic-pipette)  
 <br>
-(1x) [Opentrons p10/p20 filtered pipette tips](https://shop.opentrons.com/collections/opentrons-tips/products/opentrons-10ul-tips)  
+(Variable) [Opentrons p200 filtered pipette tips](https://shop.opentrons.com/collections/opentrons-tips/products/opentrons-200ul-filter-tips) or [Biotix uTIP 200ul filtered tips](https://biotix.com/products/pipette-tips/utip-universal-pipette-tips/200-%ce%bcl-racked-sterilized/)
 <br>
-(variable) [Opentrons p200 filtered pipette tips](https://shop.opentrons.com/collections/opentrons-tips/products/opentrons-200ul-filter-tips)  
+<br>
+(1x per run) [Opentrons p10/p20 filtered pipette tips](https://shop.opentrons.com/collections/opentrons-tips/products/opentrons-10ul-tips) or [Biotix uTIP 10XL filtered tips](https://biotix.com/products/pipette-tips/utip-universal-pipette-tips/10-%ce%bcl-xl-racked-filtered-sterilized/)  
 <br>
 (1x per run) [Bio Rad Hard-Shell® 96-Well PCR Plates, low profile, thin wall, skirted, catalog #HSP9601](https://www.bio-rad.com/en-us/sku/hsp9601-hard-shell-96-well-pcr-plates-low-profile-thin-wall-skirted-white-clear?ID=hsp9601)  
 <br>
