@@ -43,7 +43,7 @@ The protocol has a build in pre-cooling/heating step where all modules will cool
 <br>
 
 
-All labware should be calibrated **from the bottom of the wells**
+All labware should be calibrated **from the bottom of the wells.** You can learn about how to calibrate your robot [here](https://support.opentrons.com/en/articles/2687641-get-started-pipette-and-labware-calibration)
 ### Deck Layout 
 ![Screen Shot 2020-08-03 at 2](https://user-images.githubusercontent.com/43655550/89315974-1c0c2e00-d641-11ea-8775-24df214e9456.png)
 <br>
