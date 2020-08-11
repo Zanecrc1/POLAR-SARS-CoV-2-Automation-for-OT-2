@@ -30,7 +30,7 @@ c
 <br>
 
 ## Setup
-Be sure to clean the OT-2 robot before setting up any run. See the Opentrons guide on how to do this [here](https://support.opentrons.com/en/articles/1795522-cleaning-your-ot-2)
+Be sure to clean the OT-2 robot before setting up any run. See the Opentrons guide on how to do this [here](https://www.protocols.io/view/cleaning-an-ot-2-covid-19-diagnostic-station-beb5jaq6)
 <br>
 
 For this protocol, the thermocycler unit will need to be modified to fit into only slots 7 & 10. A small black panel on the bottom of the thermocycler module needs to be unscrewed in order to allow the thermocycler to shift to the left and free up slots 8 & 11 for additional tips. Note that doing this inhibits the right pipettor from accessing well column 'A1' on the thermocycler module. The right pipettor will not be used to access this column in this protocol. 
