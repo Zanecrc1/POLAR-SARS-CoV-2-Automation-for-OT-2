@@ -7,9 +7,9 @@ This protocol utilizes the following hardware:
 <br>
 (1x) [Opentrons OT-2 liquid handling robot](https://shop.opentrons.com/products/ot-2)   
 <br>
-(1x) [Opentrons Gen 2 temperature module](https://shop.opentrons.com/products/tempdeck)  
+(1x) [Opentrons Gen2 temperature module](https://shop.opentrons.com/products/tempdeck)  
 <br>
-(1x) [Opentrons Gen 2 magnetic module](https://shop.opentrons.com/products/magdeck)  
+(1x) [Opentrons Gen2 magnetic module](https://shop.opentrons.com/products/magdeck)  
 <br>
 (1x) [Opentrons Gen2 P20 8-channel pipettor](https://shop.opentrons.com/collections/ot-2-robot/products/8-channel-electronic-pipette)  
 <br>
@@ -39,8 +39,6 @@ For this protocol, the thermocycler unit will need to be modified to fit into on
 The protocol has a build in pre-cooling/heating step where all modules will cool or heat to their initial working temperatures. Start the protocol and allow the modules to cool to their respective temperatures before adding temperature sensitive enzymes. Once these temperatures are reached the protocol will pause itself, and will ask you to press the RESUME button to begin the protocol.
 <br>
 
-This protocol reuses tips in order to accomplish the many steps needed, and therefore pipette tip boxes that do not have separate partitions within the box for each tip cannot be used, and will result in increased risk of contamination between samples. Please make sure to use the [Opentrons pipette tips](https://shop.opentrons.com/collections/opentrons-tips/products/opentrons-10ul-tips) as they have separate compartments for each tip. 
-<br>
 
 All labware should be calibrated **from the bottom of the wells**
 ### Deck Layout 
@@ -64,6 +62,6 @@ Well 2: Tris-tween wash buffer
 Well 3: Tagmentation stop buffer
 
 ### Thermocycler reagents
-All samples in thermocycler will be loaded onto the thermocycler plate with a volume of 4ul. Sample duplicates are placed in neighboring rows (See diagram below)
+All samples will be loaded onto the thermocycler plate with a volume of 4ul. Sample duplicates are placed in neighboring rows (See diagram below)
 
 ![Screen Shot 2020-08-04 at 11](https://user-images.githubusercontent.com/43655550/89317215-b0c35b80-d642-11ea-859e-d1b6781276e6.png)
