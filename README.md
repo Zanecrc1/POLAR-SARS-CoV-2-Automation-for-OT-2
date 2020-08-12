@@ -15,3 +15,4 @@ These protocols use custom labware in order to maximize protocol efficiency and 
 * [`Protocols/POLAR`](https://github.com/Zanecrc1/POLAR-SARS-CoV-2-Automation-for-OT-2/tree/master/Protocols/POLAR) Contains the POLAR Express protocol and docs, designed to intake up to 6 columns of samples (48)
 * [`/custom_labware`](https://github.com/Zanecrc1/POLAR-SARS-CoV-2-Automation-for-OT-2/tree/master/custom_labware) Contains the .json files for all necessary custom labware items used in the protocols
 * [`/metadata`](https://github.com/Zanecrc1/POLAR-SARS-CoV-2-Automation-for-OT-2/tree/master/metadata) Contains technical drawings for custom labware, and any other bits that may prove useful to someone out there 
+* [`/misc`](https://github.com/Zanecrc1/POLAR-SARS-CoV-2-Automation-for-OT-2/tree/master/misc) Contains guides needed for module modification and any extra tidbits of information needed for these protocols
