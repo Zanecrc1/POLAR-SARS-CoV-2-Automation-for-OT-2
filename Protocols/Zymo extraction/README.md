@@ -24,3 +24,6 @@ This protocol utilizes the following hardware:
 * Be sure to clean the OT-2 robot before setting up any run. See the Opentrons guide on how to do this [here](https://www.protocols.io/view/cleaning-an-ot-2-covid-19-diagnostic-station-beb5jaq6)
 * All labware should be calibrated **from the bottom of the wells.** You can learn about how to calibrate your robot [here](https://support.opentrons.com/en/articles/2687641-get-started-pipette-and-labware-calibration)
 * Ensure that the pipette tip box on **slot 6** is **EMPTY.** This box needs to be an [Opentrons p200 box](https://shop.opentrons.com/collections/opentrons-tips/products/opentrons-200ul-filter-tips). The robot will placing used tips in this box to store them before re-use. Because of this the box needs to have slotted bottoms that protect each tip from contaminating eachother. This is true of the Opentrons tip boxes. All other tips can either be Biotix uTIPs or Opentrons tips as well. 
+
+## Deck Layout 
+add info/imgs
