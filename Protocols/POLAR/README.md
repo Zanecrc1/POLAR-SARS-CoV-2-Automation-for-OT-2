@@ -13,14 +13,16 @@ This protocol utilizes the following hardware:
 * (5x per run) [Opentrons p10/p20 filtered pipette tips](https://shop.opentrons.com/collections/opentrons-tips/products/opentrons-10ul-tips) or [Biotix uTIP 10XL filtered tips](https://biotix.com/products/pipette-tips/utip-universal-pipette-tips/10-%ce%bcl-xl-racked-filtered-sterilized/)  
 * (1x per run) [Opentrons thermocycler rubber seals](https://shop.opentrons.com/products/thermocycler-seals)   
 * (3x per run) [Bio Rad Hard-Shell® 96-Well PCR Plates, low profile, thin wall, skirted, catalog #HSP9601](https://www.bio-rad.com/en-us/sku/hsp9601-hard-shell-96-well-pcr-plates-low-profile-thin-wall-skirted-white-clear?ID=hsp9601)
-## Reagents
-* Mineral oil 
-* RT PCR mm
-* PCR mm
-* [Hackflex](https://www.biorxiv.org/content/10.1101/779215v1.full) reagents
-* Tris wash buffer
-* tagmentation stop buffer (2% SDS)
-* Indices
+## Reagents 
+* [Luna Universal Probe One-Step RT-qPCR Kit] (https://www.neb.com/products/e3006-luna-universal-probe-one-step-rt-qpcr-kit#Product%20Information)
+* [Nextera DNA Flex Library Prep] (https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/nextera-dna-flex.html)
+* [Random Hexamer Primer] (https://www.thermofisher.com/order/catalog/product/SO142#/SO142)
+* [Luna® Universal Probe One-Step RT-qPCR Kit] (https://www.neb.com/products/e3006-luna-universal-probe-one-step-rt-qpcr-kit#Product%20Information)
+* [IDT for Illumina Nextera DNA Unique Dual Indexes Set] (https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/nextera-dna-flex.html)
+* [NEBNext® Q5U®  Master Mix] (https://www.neb.com/protocols/2019/04/09/reaction-setup-nebnext-q5u-master-mix-m0597)
+* [Magnesium Chloride Solution (1M)] (https://www.sigmaaldrich.com/catalog/product/sigma/m1028?lang=en&region=US&gclid=EAIaIQobChMIiJ7z3sK86QIVhsDACh066wtlEAAYASAAEgICa_D_BwE)
+* [N,N-Dimethylformamide (100%)] (https://www.sigmaaldrich.com/catalog/product/sial/227056?lang=en&region=US)
+* [Sodium Dodecyl Sulfate, 10%] (https://www.thermofisher.com/order/catalog/product/AM9822#/AM9822)
 
 ## Setup
 Be sure to clean the OT-2 robot before setting up any run. See the Opentrons guide on how to do this [here](https://www.protocols.io/view/cleaning-an-ot-2-covid-19-diagnostic-station-beb5jaq6)
